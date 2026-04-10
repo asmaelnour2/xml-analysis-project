@@ -17,6 +17,6 @@ Tools Used
 Python
 Pandas
 Matplotlib
-🎯 Purpose
 
+🎯 Purpose
 This project was created as a small hands-on exercise to practice working with XML data, data transformation, and basic visualization techniques.
